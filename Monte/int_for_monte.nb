@@ -1,0 +1,260 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 9.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       157,          7]
+NotebookDataLength[      7164,        251]
+NotebookOptionsPosition[      6220,        214]
+NotebookOutlinePosition[      6556,        229]
+CellTagsIndexPosition[      6513,        226]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[BoxData[
+ RowBox[{"\[IndentingNewLine]", "\[IndentingNewLine]", 
+  RowBox[{
+   SubsuperscriptBox["\[Integral]", "0", "2"], 
+   RowBox[{
+    SubsuperscriptBox["\[Integral]", "0", 
+     RowBox[{"4", "-", 
+      RowBox[{"2", "*", "x"}]}]], 
+    RowBox[{
+     SubsuperscriptBox["\[Integral]", "0", 
+      RowBox[{"4", "-", "y", "-", 
+       RowBox[{"2", "*", "x"}]}]], 
+     RowBox[{"y", 
+      RowBox[{"\[DifferentialD]", "z"}], 
+      RowBox[{"\[DifferentialD]", "y"}], 
+      RowBox[{"\[DifferentialD]", "x"}]}]}]}]}]}]], "Input",
+ CellChangeTimes->{{3.604545842112135*^9, 3.6045459045745173`*^9}}],
+
+Cell[BoxData[
+ FractionBox["16", "3"]], "Output",
+ CellChangeTimes->{3.6045459069801817`*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{
+  SubsuperscriptBox["\[Integral]", "0", "2"], 
+  RowBox[{
+   SubsuperscriptBox["\[Integral]", "0", 
+    RowBox[{"4", "-", 
+     RowBox[{"2", "*", "x"}]}]], 
+   RowBox[{
+    SubsuperscriptBox["\[Integral]", "0", 
+     RowBox[{"4", "-", "y", "-", 
+      RowBox[{"2", "*", "x"}]}]], 
+    RowBox[{
+     SubsuperscriptBox["\[Integral]", "0", "y"], 
+     RowBox[{"1", 
+      RowBox[{"\[DifferentialD]", "w"}], 
+      RowBox[{"\[DifferentialD]", "z"}], 
+      RowBox[{"\[DifferentialD]", "y"}], 
+      RowBox[{"\[DifferentialD]", "x"}]}]}]}]}]}]], "Input",
+ CellChangeTimes->{{3.604546046090863*^9, 3.604546072920478*^9}}],
+
+Cell[BoxData[
+ FractionBox["16", "3"]], "Output",
+ CellChangeTimes->{3.6045460757356167`*^9}]
+}, Open  ]],
+
+Cell[BoxData[
+ RowBox[{
+  SubsuperscriptBox["\[Integral]", "0", "2"], 
+  RowBox[{
+   SubsuperscriptBox["\[Integral]", "0", 
+    RowBox[{"4", "-", 
+     RowBox[{"2", "*", "x"}]}]], 
+   RowBox[{
+    SubsuperscriptBox["\[Integral]", "0", 
+     RowBox[{"4", "-", "y", "-", 
+      RowBox[{"2", "*", "x"}]}]], 
+    RowBox[{"1", 
+     RowBox[{"\[DifferentialD]", "z"}], 
+     RowBox[{"\[DifferentialD]", "y"}], 
+     RowBox[{"\[DifferentialD]", "x"}]}]}]}]}]], "Input",
+ CellChangeTimes->{{3.604546324991858*^9, 3.6045463579726133`*^9}}],
+
+Cell[BoxData[
+ RowBox[{
+  FractionBox["16", "3"], "\[IndentingNewLine]", "\[IndentingNewLine]", 
+  "\[IndentingNewLine]", "\[IndentingNewLine]", 
+  "\[IndentingNewLine]"}]], "Input",
+ CellChangeTimes->{{3.604548096614442*^9, 3.604548097243834*^9}}],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{
+  SubsuperscriptBox["\[Integral]", "1", "3"], 
+  RowBox[{
+   SubsuperscriptBox["\[Integral]", "x", 
+    RowBox[{"x", "^", "3"}]], 
+   RowBox[{
+    RowBox[{"(", 
+     RowBox[{
+      RowBox[{"x", "^", "2"}], "+", 
+      RowBox[{"x", "*", "y"}]}], ")"}], 
+    RowBox[{"\[DifferentialD]", "y"}], 
+    RowBox[{"\[DifferentialD]", "x"}]}]}]}]], "Input",
+ CellChangeTimes->{{3.60454803724685*^9, 3.604548086927498*^9}}],
+
+Cell[BoxData[
+ FractionBox["1504", "3"]], "Output",
+ CellChangeTimes->{3.604548089327963*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{
+  SubsuperscriptBox["\[Integral]", "1", "3"], 
+  RowBox[{
+   SubsuperscriptBox["\[Integral]", "x", 
+    RowBox[{"x", "^", "3"}]], 
+   RowBox[{
+    SubsuperscriptBox["\[Integral]", "0", 
+     RowBox[{
+      RowBox[{"x", "^", "2"}], "+", 
+      RowBox[{"x", "*", "y"}]}]], 
+    RowBox[{"1", 
+     RowBox[{"\[DifferentialD]", "z"}], 
+     RowBox[{"\[DifferentialD]", "y"}], 
+     RowBox[{"\[DifferentialD]", "x"}]}]}]}]}]], "Input",
+ CellChangeTimes->{{3.6045481090159273`*^9, 3.6045481263368607`*^9}}],
+
+Cell[BoxData[
+ FractionBox["1504", "3"]], "Output",
+ CellChangeTimes->{3.604548129856159*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{
+  SubsuperscriptBox["\[Integral]", "1", "3"], 
+  RowBox[{
+   SubsuperscriptBox["\[Integral]", "x", 
+    RowBox[{"x", "^", "3"}]], 
+   RowBox[{
+    SubsuperscriptBox["\[Integral]", "0", 
+     RowBox[{
+      RowBox[{"x", "^", "2"}], "+", 
+      RowBox[{"x", "*", "y"}]}]], 
+    RowBox[{
+     SubsuperscriptBox["\[Integral]", "0", 
+      RowBox[{"z", "/", "6"}]], 
+     RowBox[{"1", 
+      RowBox[{"\[DifferentialD]", "w"}], 
+      RowBox[{"\[DifferentialD]", "z"}], 
+      RowBox[{"\[DifferentialD]", "y"}], 
+      RowBox[{"\[DifferentialD]", "x"}]}]}]}]}]}]], "Input",
+ CellChangeTimes->{{3.604561723964082*^9, 3.604561841452352*^9}}],
+
+Cell[BoxData[
+ FractionBox["238544", "135"]], "Output",
+ CellChangeTimes->{
+  3.60456176152045*^9, {3.6045617945935717`*^9, 3.604561845498692*^9}}]
+}, Open  ]],
+
+Cell[BoxData[
+ RowBox[{"\[IndentingNewLine]", "\[IndentingNewLine]", 
+  RowBox[{
+   SubsuperscriptBox["\[Integral]", "0", "3"], 
+   RowBox[{
+    SubsuperscriptBox["\[Integral]", 
+     RowBox[{"-", "x"}], 
+     RowBox[{
+      RowBox[{"2", "*", "x"}], " ", "-", " ", 
+      RowBox[{"x", "*", "x"}]}]], 
+    RowBox[{"1", 
+     RowBox[{"\[DifferentialD]", "y"}], 
+     RowBox[{"\[DifferentialD]", "x"}]}]}]}]}]], "Input",
+ CellChangeTimes->{{3.604994013187401*^9, 3.6049940333776608`*^9}, {
+  3.604994639832603*^9, 3.604994688365081*^9}}],
+
+Cell[BoxData[
+ RowBox[{
+  FractionBox["9", "2"], "\[IndentingNewLine]", "\[IndentingNewLine]", 
+  "\[IndentingNewLine]", "\[IndentingNewLine]"}]], "Input",
+ CellChangeTimes->{{3.604996840365856*^9, 3.604996847415125*^9}, {
+   3.604997996167921*^9, 3.6049980443600807`*^9}, 3.604998414076558*^9}],
+
+Cell[BoxData[
+ RowBox[{"\[IndentingNewLine]", 
+  RowBox[{
+   SubsuperscriptBox["\[Integral]", 
+    TagBox[
+     FrameBox["lower"],
+     "Placeholder"], 
+    TagBox[
+     FrameBox["upper"],
+     "Placeholder"]], 
+   RowBox[{
+    TagBox[
+     FrameBox["expr"],
+     "SelectionPlaceholder"], 
+    RowBox[{"\[DifferentialD]", 
+     TagBox[
+      FrameBox["var"],
+      "Placeholder"]}]}]}]}]], "Input",
+ CellChangeTimes->{{3.604998426792603*^9, 3.604998438942646*^9}}]
+},
+WindowSize->{1920, 1058},
+WindowMargins->{{Automatic, 0}, {Automatic, 0}},
+FrontEndVersion->"9.0 for Linux x86 (64-bit) (February 7, 2013)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[579, 22, 602, 16, 96, "Input"],
+Cell[1184, 40, 93, 2, 49, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[1314, 47, 639, 18, 51, "Input"],
+Cell[1956, 67, 93, 2, 49, "Output"]
+}, Open  ]],
+Cell[2064, 72, 530, 15, 51, "Input"],
+Cell[2597, 89, 248, 5, 169, "Input"],
+Cell[CellGroupData[{
+Cell[2870, 98, 436, 13, 51, "Input"],
+Cell[3309, 113, 93, 2, 49, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[3439, 120, 523, 15, 51, "Input"],
+Cell[3965, 137, 93, 2, 49, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[4095, 144, 657, 19, 51, "Input"],
+Cell[4755, 165, 147, 3, 49, "Output"]
+}, Open  ]],
+Cell[4917, 171, 534, 14, 96, "Input"],
+Cell[5454, 187, 295, 5, 147, InheritFromParent],
+Cell[5752, 194, 464, 18, 85, "Input"]
+}
+]
+*)
+
+(* End of internal cache information *)

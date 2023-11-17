@@ -1,0 +1,168 @@
+---------- 19 -----------
+low: -39; up: 97
+Not norm wf: 0.0430624
+norm_const: 4.81893
+pure norm wf: 1.00017
+average: 45.6919
+average_pow2: 2087.75
+average_cm: 4.56919e-06
+average_cm_pow2: 2.08775e-11
+pow2_average: 2152.33
+pow2_average - average_pow2 = 64.5828
+pow2_average_cm - average_pow2_cm: 6.45828e-13
+---------- 25 -----------
+low: -39; up: 97
+Not norm wf: 0.0490268
+norm_const: 4.5163
+pure norm wf: 0.998971
+average: 20.7299
+average_pow2: 429.73
+average_cm: 2.07299e-06
+average_cm_pow2: 4.2973e-12
+pow2_average: 664.218
+pow2_average - average_pow2 = 234.488
+pow2_average_cm - average_pow2_cm: 2.34488e-12
+---------- 28 -----------
+low: -39; up: 97
+Not norm wf: 0.0511581
+norm_const: 4.42123
+pure norm wf: 0.999893
+average: 29.894
+average_pow2: 893.654
+average_cm: 2.9894e-06
+average_cm_pow2: 8.93654e-12
+pow2_average: 1369.5
+pow2_average - average_pow2 = 475.848
+pow2_average_cm - average_pow2_cm: 4.75848e-12
+---------- 32 -----------
+low: -39; up: 97
+Not norm wf: 0.0556703
+norm_const: 4.23827
+pure norm wf: 0.99988
+average: 22.1785
+average_pow2: 491.884
+average_cm: 2.21785e-06
+average_cm_pow2: 4.91884e-12
+pow2_average: 919.861
+pow2_average - average_pow2 = 427.977
+pow2_average_cm - average_pow2_cm: 4.27977e-12
+---------- 37 -----------
+low: -39; up: 97
+Not norm wf: 0.0621814
+norm_const: 4.01024
+pure norm wf: 0.999787
+average: 16.5182
+average_pow2: 272.85
+average_cm: 1.65182e-06
+average_cm_pow2: 2.7285e-12
+pow2_average: 568.086
+pow2_average - average_pow2 = 295.236
+pow2_average_cm - average_pow2_cm: 2.95236e-12
+---------- 42 -----------
+low: -39; up: 97
+Not norm wf: 0.0707235
+norm_const: 3.76026
+pure norm wf: 1.00001
+average: 42.0387
+average_pow2: 1767.26
+average_cm: 4.20387e-06
+average_cm_pow2: 1.76726e-11
+pow2_average: 1946.79
+pow2_average - average_pow2 = 179.537
+pow2_average_cm - average_pow2_cm: 1.79537e-12
+---------- 93 -----------
+low: -39; up: 97
+Not norm wf: 0.0564946
+norm_const: 4.20723
+pure norm wf: 1.00005
+average: 42.6277
+average_pow2: 1817.12
+average_cm: 4.26277e-06
+average_cm_pow2: 1.81712e-11
+pow2_average: 1972.37
+pow2_average - average_pow2 = 155.255
+pow2_average_cm - average_pow2_cm: 1.55255e-12
+---------- 105 -----------
+low: -39; up: 97
+Not norm wf: 0.0652384
+norm_const: 3.91515
+pure norm wf: 0.999758
+average: 18.3521
+average_pow2: 336.798
+average_cm: 1.83521e-06
+average_cm_pow2: 3.36798e-12
+pow2_average: 631.099
+pow2_average - average_pow2 = 294.301
+pow2_average_cm - average_pow2_cm: 2.94301e-12
+---------- 118 -----------
+low: -39; up: 97
+Not norm wf: 0.0756988
+norm_const: 3.63459
+pure norm wf: 0.999897
+average: 27.2344
+average_pow2: 741.714
+average_cm: 2.72344e-06
+average_cm_pow2: 7.41714e-12
+pow2_average: 1225.15
+pow2_average - average_pow2 = 483.438
+pow2_average_cm - average_pow2_cm: 4.83438e-12
+---------- 131 -----------
+low: -39; up: 97
+Not norm wf: 0.0846423
+norm_const: 3.43721
+pure norm wf: 1.00001
+average: 27.7003
+average_pow2: 767.304
+average_cm: 2.77003e-06
+average_cm_pow2: 7.67304e-12
+pow2_average: 1258.43
+pow2_average - average_pow2 = 491.121
+pow2_average_cm - average_pow2_cm: 4.91121e-12
+---------- 148 -----------
+low: -39; up: 97
+Not norm wf: 0.0942459
+norm_const: 3.25738
+pure norm wf: 0.999975
+average: 20.0883
+average_pow2: 403.542
+average_cm: 2.00883e-06
+average_cm_pow2: 4.03542e-12
+pow2_average: 754.306
+pow2_average - average_pow2 = 350.765
+pow2_average_cm - average_pow2_cm: 3.50765e-12
+---------- 166 -----------
+low: -39; up: 97
+Not norm wf: 0.109477
+norm_const: 3.0223
+pure norm wf: 1.00005
+average: 41.0075
+average_pow2: 1681.62
+average_cm: 4.10075e-06
+average_cm_pow2: 1.68162e-11
+pow2_average: 1893.72
+pow2_average - average_pow2 = 212.107
+pow2_average_cm - average_pow2_cm: 2.12107e-12
+---------- 231 -----------
+low: -39; up: 97
+Not norm wf: 1.85279
+norm_const: 0.734661
+pure norm wf: 0.999996
+average: 31.0932
+average_pow2: 966.786
+average_cm: 3.10932e-06
+average_cm_pow2: 9.66786e-12
+pow2_average: 1457.9
+pow2_average - average_pow2 = 491.112
+pow2_average_cm - average_pow2_cm: 4.91112e-12
+---------- 239 -----------
+low: -39; up: 97
+Not norm wf: 0.408943
+norm_const: 1.56375
+pure norm wf: 1.00002
+average: 21.9359
+average_pow2: 481.185
+average_cm: 2.19359e-06
+average_cm_pow2: 4.81185e-12
+pow2_average: 1666.18
+pow2_average - average_pow2 = 1184.99
+pow2_average_cm - average_pow2_cm: 1.18499e-11

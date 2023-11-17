@@ -1,0 +1,99 @@
+---------- 6.9 -----------
+low: -31.5; up: 44.5
+Not norm wf: 2.39382e-05
+norm_const: 204.387
+pure norm wf: 1.00036
+average: 0.220876
+average_nano: 2.20876e-08
+average_nano_pow2: 4.87862e-16
+pow2_average_nano: 2.81545e-13
+pow2_average_nano - average_nano_pow2: 2.81057e-13
+standard deviation: 5.30148e-07
+---------- 25.3 -----------
+low: -31.5; up: 44.5
+Not norm wf: 2.32159e-05
+norm_const: 207.543
+pure norm wf: 1.00167
+average: 11.2881
+average_nano: 1.12881e-06
+average_nano_pow2: 1.2742e-12
+pow2_average_nano: 2.4704e-12
+pow2_average_nano - average_nano_pow2: 1.1962e-12
+standard deviation: 1.09371e-06
+---------- 30.2 -----------
+low: -31.5; up: 44.5
+Not norm wf: 3.05223e-05
+norm_const: 181.005
+pure norm wf: 1.00224
+average: 8.35767
+average_nano: 8.35767e-07
+average_nano_pow2: 6.98507e-13
+pow2_average_nano: 2.07746e-12
+pow2_average_nano - average_nano_pow2: 1.37895e-12
+standard deviation: 1.17429e-06
+---------- 62.7 -----------
+low: -31.5; up: 44.5
+Not norm wf: 2.38887e-05
+norm_const: 204.599
+pure norm wf: 1.00366
+average: 0.797085
+average_nano: 7.97085e-08
+average_nano_pow2: 6.35345e-15
+pow2_average_nano: 7.75284e-13
+pow2_average_nano - average_nano_pow2: 7.68931e-13
+standard deviation: 8.76887e-07
+---------- 101.3 -----------
+low: -31.5; up: 44.5
+Not norm wf: 0.000178151
+norm_const: 74.9214
+pure norm wf: 1.00559
+average: 10.9617
+average_nano: 1.09617e-06
+average_nano_pow2: 1.20159e-12
+pow2_average_nano: 2.55144e-12
+pow2_average_nano - average_nano_pow2: 1.34986e-12
+standard deviation: 1.16183e-06
+---------- 119.2 -----------
+low: -31.5; up: 44.5
+Not norm wf: 0.000252939
+norm_const: 62.877
+pure norm wf: 1.00836
+average: 7.84142
+average_nano: 7.84142e-07
+average_nano_pow2: 6.14879e-13
+pow2_average_nano: 2.11321e-12
+pow2_average_nano - average_nano_pow2: 1.49833e-12
+standard deviation: 1.22406e-06
+---------- 171.8 -----------
+low: -31.5; up: 44.5
+Not norm wf: 0.0019411
+norm_const: 22.6974
+pure norm wf: 1.00251
+average: 1.59489
+average_nano: 1.59489e-07
+average_nano_pow2: 2.54368e-14
+pow2_average_nano: 1.0957e-12
+pow2_average_nano - average_nano_pow2: 1.07026e-12
+standard deviation: 1.03453e-06
+---------- 222.1 -----------
+low: -31.5; up: 44.5
+Not norm wf: 0.32602
+norm_const: 1.75137
+pure norm wf: 1.00001
+average: 11.6249
+average_nano: 1.16249e-06
+average_nano_pow2: 1.35139e-12
+pow2_average_nano: 3.26447e-12
+pow2_average_nano - average_nano_pow2: 1.91308e-12
+standard deviation: 1.38314e-06
+---------- 240 -----------
+low: -31.5; up: 44.5
+Not norm wf: 5.40168e-12
+norm_const: 430264
+pure norm wf: 0.993255
+average: 4.46004
+average_nano: 4.46004e-07
+average_nano_pow2: 1.9892e-13
+pow2_average_nano: 6.05059e-12
+pow2_average_nano - average_nano_pow2: 5.85167e-12
+standard deviation: 2.41902e-06

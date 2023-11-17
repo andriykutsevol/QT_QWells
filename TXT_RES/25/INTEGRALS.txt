@@ -1,0 +1,77 @@
+---------- 7 -----------
+low: -25; up: 25
+Not norm wf: 2.47157e-05
+norm_const: 201.147
+pure norm wf: 0.999184
+average: -2.4437e-13
+average_nano: -2.4437e-20
+average_nano_pow2: 5.97168e-40
+pow2_average_nano: 2.64613e-13
+pow2_average_nano - average_nano_pow2: 2.64613e-13
+standard deviation: 5.14405e-07
+---------- 28 -----------
+low: -25; up: 25
+Not norm wf: 1.32931e-05
+norm_const: 274.275
+pure norm wf: 1.00038
+average: 7.44904e-15
+average_nano: 7.44904e-22
+average_nano_pow2: 5.54882e-43
+pow2_average_nano: 5.72666e-13
+pow2_average_nano - average_nano_pow2: 5.72666e-13
+standard deviation: 7.56747e-07
+---------- 63 -----------
+low: -25; up: 25
+Not norm wf: 2.31482e-05
+norm_const: 207.846
+pure norm wf: 1.00093
+average: -1.88756e-15
+average_nano: -1.88756e-22
+average_nano_pow2: 3.56288e-44
+pow2_average_nano: 6.39345e-13
+pow2_average_nano - average_nano_pow2: 6.39345e-13
+standard deviation: 7.9959e-07
+---------- 111 -----------
+low: -25; up: 25
+Not norm wf: 0.000104502
+norm_const: 97.8221
+pure norm wf: 1.00146
+average: -5.78981e-14
+average_nano: -5.78981e-21
+average_nano_pow2: 3.35219e-41
+pow2_average_nano: 6.87399e-13
+pow2_average_nano - average_nano_pow2: 6.87399e-13
+standard deviation: 8.29095e-07
+---------- 170 -----------
+low: -25; up: 25
+Not norm wf: 0.00165508
+norm_const: 24.5805
+pure norm wf: 1.00106
+average: 2.29731e-14
+average_nano: 2.29731e-21
+average_nano_pow2: 5.27764e-42
+pow2_average_nano: 7.73096e-13
+pow2_average_nano - average_nano_pow2: 7.73096e-13
+standard deviation: 8.79259e-07
+---------- 233 -----------
+low: -25; up: 25
+Not norm wf: 0.650209
+norm_const: 1.24015
+pure norm wf: 1
+average: -7.52631e-15
+average_nano: -7.52631e-22
+average_nano_pow2: 5.66454e-43
+pow2_average_nano: 1.4005e-12
+pow2_average_nano - average_nano_pow2: 1.4005e-12
+standard deviation: 1.18343e-06
+---------- 239 -----------
+low: -25; up: 25
+Not norm wf: 4.26441
+norm_const: 0.484251
+pure norm wf: 1
+average: 2.21021e-14
+average_nano: 2.21021e-21
+average_nano_pow2: 4.88502e-42
+pow2_average_nano: 2.0023e-12
+pow2_average_nano - average_nano_pow2: 2.0023e-12
+standard deviation: 1.41503e-06

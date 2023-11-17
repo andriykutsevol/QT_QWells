@@ -1,0 +1,88 @@
+---------- 6.5 -----------
+low: -17.5; up: 44.5
+Not norm wf: 2.00648e-05
+norm_const: 223.245
+pure norm wf: 1.00008
+average: 13.5009
+average_pow2: 182.274
+pow2_average: 377.334
+---------- 7.4 -----------
+low: -17.5; up: 44.5
+Not norm wf: 2.96048e-05
+norm_const: 183.789
+pure norm wf: 0.999735
+average: 13.4963
+average_pow2: 182.151
+pow2_average: 399.074
+---------- 26.2 -----------
+low: -17.5; up: 44.5
+Not norm wf: 1.11761e-05
+norm_const: 299.127
+pure norm wf: 1.00022
+average: 13.503
+average_pow2: 182.331
+pow2_average: 412.328
+---------- 29.7 -----------
+low: -17.5; up: 44.5
+Not norm wf: 1.65487e-05
+norm_const: 245.821
+pure norm wf: 0.998491
+average: 13.4791
+average_pow2: 181.687
+pow2_average: 428.178
+---------- 59.1 -----------
+low: -17.5; up: 44.5
+Not norm wf: 1.94167e-05
+norm_const: 226.941
+pure norm wf: 1.00045
+average: 13.5061
+average_pow2: 182.415
+pow2_average: 422.003
+---------- 66.7 -----------
+low: -17.5; up: 44.5
+Not norm wf: 2.93264e-05
+norm_const: 184.659
+pure norm wf: 1.00063
+average: 13.5081
+average_pow2: 182.469
+pow2_average: 437.239
+---------- 105 -----------
+low: -17.5; up: 44.5
+Not norm wf: 8.77751e-05
+norm_const: 106.737
+pure norm wf: 1.00077
+average: 13.5104
+average_pow2: 182.532
+pow2_average: 430.425
+---------- 117.9 -----------
+low: -17.5; up: 44.5
+Not norm wf: 0.000142729
+norm_const: 83.7036
+pure norm wf: 1.00101
+average: 13.5131
+average_pow2: 182.603
+pow2_average: 445.431
+---------- 163.4 -----------
+low: -17.5; up: 44.5
+Not norm wf: 0.00138618
+norm_const: 26.859
+pure norm wf: 1.00108
+average: 13.5145
+average_pow2: 182.641
+pow2_average: 444.272
+---------- 182.1 -----------
+low: -17.5; up: 44.5
+Not norm wf: 0.00276325
+norm_const: 19.0235
+pure norm wf: 0.999743
+average: 13.4962
+average_pow2: 182.147
+pow2_average: 462.053
+---------- 230.8 -----------
+low: -17.5; up: 44.5
+Not norm wf: 0.515785
+norm_const: 1.39241
+pure norm wf: 1
+average: 13.5001
+average_pow2: 182.252
+pow2_average: 498.594
